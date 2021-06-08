@@ -11,7 +11,7 @@ Loss = []
 Success = []
 Fre = []
 
-noise = 3      
+noise = 4      
 num_sensor = 10  # N 
 policy = 2      # choose power change policy for PU, it should be 1(Multi-step) or 2(Single step)
 
